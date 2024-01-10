@@ -1,0 +1,9 @@
+https://www.w3resource.com/mongodb/mongodb-queries-from-collection.php
+
+https://www.baeldung.com/queries-in-spring-data-mongodb
+
+https://www.geeksforgeeks.org/how-to-connect-mongodb-with-spring-boot/
+
+https://www.mongodb.com/compatibility/spring-boot
+
+https://www.baeldung.com/queries-in-spring-data-mongodb
