@@ -6,3 +6,8 @@ git add --all
 git status
 git commit -m "Initial Commit"
 git push -u origin master
+
+
+Pull Command
+-------------
+git pull --rebase origin master
