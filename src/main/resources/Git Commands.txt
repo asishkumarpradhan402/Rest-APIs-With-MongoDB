@@ -1,0 +1,8 @@
+GIT First Time Push Code After Repo Create
+------------------------------------------
+git init
+git remote add origin https://github.com/asishkumarpradhan402/Rest-APIs-With-MongoDB.git
+git add --all
+git status
+git commit -m "Initial Commit"
+git push -u origin master
